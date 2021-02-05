@@ -3,3 +3,5 @@ Kalaksa Resolusi
 - menguasai HTML, CSS, JS
 - menguasai React, Angular, Vue, Native, Node JS
 - membuat project web POS
+- membuat web online shop
+- berkolaborasi dengan lebih banyak expert
