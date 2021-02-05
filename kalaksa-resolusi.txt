@@ -1,0 +1,5 @@
+Kalaksa Resolusi
+- konsisten untuk belajar bhs pemrograman
+- menguasai HTML, CSS, JS
+- menguasai React, Angular, Vue, Native, Node JS
+- membuat project web POS
